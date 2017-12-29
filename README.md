@@ -1,2 +1,0 @@
-# bj-
-tema bj dark
